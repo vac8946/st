@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Fira Code:pixelsize=22";
+static char *font = "monospace:pixelsize=22";
 static int borderpx = 2;
 
 /*
